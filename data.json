@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "amount": 50,
+    "date": "2025-10-04",
+    "note": "Blinkit Order",
+    "category": "Food"
+  },
+  {
+    "id": 2,
+    "amount": 5055,
+    "date": "2025-10-04",
+    "note": "Asus Laptop",
+    "category": "IT"
+  }
+]
